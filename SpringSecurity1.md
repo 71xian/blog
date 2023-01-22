@@ -24,6 +24,10 @@ POST
 
 DELETE
 
+PUT: 不打补丁 直接更换
+
+PATCH: 打补丁
+
 HEAD：没听说过
 
 OPTIONS：springsecurity里面使用到了 过滤掉这种请求
