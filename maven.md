@@ -55,4 +55,4 @@ deploy
 
 父依赖和子依赖冲突 优先使用子依赖
 
-上传到私服  codeup有教程
+上传到私服  [codeup](https://codeup.aliyun.com/)有教程
