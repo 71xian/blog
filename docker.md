@@ -82,7 +82,7 @@ docker network create {network_name} -d {network_mode}
 
 docker inspect {network_name}
 
-容器之间的通信可以直接使用服务名
+容器之间的通信可以直接使用服务名 ping mysql = ping 172.23.0.2
 
 推荐阅读：
 
