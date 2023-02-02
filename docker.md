@@ -78,6 +78,10 @@ docker network ls
 
 docker network create {network_name} -d {network_mode}
 
+删除网络
+
+docker network rm {network_name}
+
 查看该网络下有什么容器:
 
 docker inspect {network_name}
